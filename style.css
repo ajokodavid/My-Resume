@@ -1,0 +1,13 @@
+.cont {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.buttom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-weight: bolder;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
